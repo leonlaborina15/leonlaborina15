@@ -2,7 +2,7 @@
 
 # Hello World! I'm Leon Laborina 👋
 
-🔭 Currently working on cryptocurrency, NFTs, backend projects using the PERN/MERN stack.
+🔭 Currently working on cryptocurrency, NFTs, backend projects using the PERN/MERN stack.<br>
 👯 Looking to collaborate on blockchain and innovative cryptocurrency ideas.  
 🤝 Seeking help with advanced NFT development strategies.  
 🌱 Learning backend techniques, blockchain integrations, and fitness optimization.  
